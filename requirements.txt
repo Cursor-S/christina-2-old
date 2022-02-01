@@ -1,0 +1,7 @@
+ujson==4.0.2
+aiohttp==3.7.4.post0
+uvicorn==0.14.0
+requests==2.25.1
+dnspython==2.2.0
+fastapi==0.73.0
+tinydb==4.6.1
